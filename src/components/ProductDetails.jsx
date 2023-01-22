@@ -21,7 +21,7 @@ const ProductDetails = () => {
   const submitHandler = (e) => {
     e.preventDefault();
 
-    setCartItemCounter((prevCounter) => prevCounter + inputQty);
+    setCartItemCounter((prevCounter) => prevCounter + parseInt(inputQty, 10));
 
     setInputQty(0);
   };
