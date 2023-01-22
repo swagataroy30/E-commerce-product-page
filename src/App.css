@@ -148,7 +148,7 @@ nav ul li:hover::after {
     background-color: var(--white);
     z-index: 10;
     padding: 29px 22px;
-    transition: 0.8s ease;
+    transition: 0.5s ease;
   }
 
   nav.open {
