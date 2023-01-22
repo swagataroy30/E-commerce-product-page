@@ -912,7 +912,7 @@ button {
   .cart-container {
     width: 20rem;
     top: 65px;
-    right: -2px;
+    right: 1px;
   }
 }
 
