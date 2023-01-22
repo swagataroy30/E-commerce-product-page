@@ -190,8 +190,8 @@ nav ul li:hover::after {
 
 @media screen and (max-width: 375px) {
   header {
-    padding: 2% 3%;
-    gap: 5rem;
+    padding: 4% 0.5% 1% 2%;
+    justify-content: space-between;
   }
 
   .logo-menu-container {
