@@ -22,11 +22,11 @@ This is a solution for a challenge from [frontendmentor.io](https://www.frontend
 
 This is the desktop view screenshot of the project
 
-![](.screenshot/desktop-screenshot.png)
+![](./screenshot/desktop-screenshot.png)
 
 This the mobile view the screenshot of the project
 
-![](.screenshot/mobile-screenshot.png)
+![](./screenshot/mobile-screenshot.png)
 
 ## My process
 
