@@ -15,7 +15,7 @@ This is a solution for a challenge from [frontendmentor.io](https://www.frontend
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/ecommerce-product-page-0jcCZT3W1s)
 - Live Site URL: [Live Site](https://e-commerce-product-sr.netlify.app/)
 
 ### Screenshot
@@ -40,4 +40,4 @@ This the mobile view the screenshot of the project
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my [solution]().
+A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/ecommerce-product-page-0jcCZT3W1s).
